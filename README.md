@@ -1,3 +1,3 @@
 # task1.github.io
 
-<h1 style = "text-align: center"> Bootstrap Website test</h1>
+<h1>Bootstrap Website test </h1>
